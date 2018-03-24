@@ -1,0 +1,2 @@
+# BingwebmasterAPI
+Bing webmaster API
